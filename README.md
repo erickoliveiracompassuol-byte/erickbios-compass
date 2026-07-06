@@ -108,6 +108,6 @@ git branch
 
 ## 👨‍💻 Autor
 
-**Erick Oliveira**
+**Erick Silva de Oliveira**
 
 QA | Quality Assurance | Futuro Engenheiro de Automação de Testes 🚀
