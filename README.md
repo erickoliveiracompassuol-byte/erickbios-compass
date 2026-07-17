@@ -112,3 +112,4 @@ git branch
 
 QA | Quality Assurance | Futuro Engenheiro de Automação de Testes 🚀
 ____________________________________________________________________
+"Se você quiser descobrir os segredos do Universo, pense em termos de energia, frequência e vibração.".
